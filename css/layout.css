@@ -21,7 +21,7 @@
 	position: fixed;
 	top: 0;
 	left: 0;
-	width: 44px;
+	width: 100px;
 	height: 100%;
 	z-index: 113;
 	text-align: center;
@@ -175,6 +175,10 @@
 }
 
 .header .top-menu ul li.active a .icon {
+	color: #5ac24e;
+}
+
+.header .top-menu ul li.active a .link {
 	color: #5ac24e;
 }
 
@@ -350,7 +354,7 @@
 	2. Cards
 */
 .card-inner {
-	padding-left: 44px;
+	padding-left: 100px;
 	position: absolute;
 	overflow: hidden;
 	left: 0;
