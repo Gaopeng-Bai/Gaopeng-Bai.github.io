@@ -35,7 +35,7 @@ $(function () {
 
 	$('.typed-title').typed({
 		stringsElement: $('.typing-title'),
-		backDelay: 5000, /* Delay in text change */
+		backDelay: 1000, /* Delay in text change */
 		typeSpeed: 0, /* Typing speed */
 		loop: true
 	});

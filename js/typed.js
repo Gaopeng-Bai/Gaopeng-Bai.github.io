@@ -390,8 +390,10 @@
             var $this = $(this),
                 data = $this.data('typed'),
                 options = typeof option == 'object' && option;
-            if (!data) $this.data('typed', (data = new Typed(this, options)));
-            if (typeof option == 'string') data[option]();
+            if (!data) 
+                $this.data('typed', (data = new Typed(this, options)));
+            if (typeof option == 'string') 
+                data[option]();
         });
     };
 
