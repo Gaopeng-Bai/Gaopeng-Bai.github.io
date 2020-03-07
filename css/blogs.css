@@ -161,6 +161,7 @@
 	color: #5ac24e;
 }
 
+
 .post-box .post-comments li .comment-info .name h6 span {
 	margin: 0 0 0 10px;
 	padding: 0 0 0 10px;
@@ -187,7 +188,9 @@
 	}
 
 	.post-box .post-comments li .comment-info .name {
+		
 		margin: 0 0 30px 0;
+		
 	}
 
 	.post-box .post-comments li .comment-info .name h6 span {

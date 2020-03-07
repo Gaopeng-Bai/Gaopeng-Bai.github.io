@@ -762,9 +762,14 @@
 	font-weight: 700;
 }
 
+.service-items .service-item p strong {
+	color: #468fca;
+}
+
 .service-items .service-item p {
 	margin: 0;
 }
+
 
 /* 3.3 Pricing */
 .pricing-items {
