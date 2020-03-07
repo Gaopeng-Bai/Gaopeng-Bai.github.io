@@ -458,11 +458,11 @@
 
 .card-inner .card-container .card-wrap {
 	background: linear-gradient(135deg, #1d1e21 0%, #3e4246 100%);
-	overflow: visible!important;
+	overflow: visible !important;
 }
 
 .card-inner .card-container .card-wrap .simplebar-scroll-content {
-	max-height: 100%!important;
+	max-height: 100% !important;
 }
 
 .card-inner .card-wrap {
@@ -476,7 +476,7 @@
 
 .card-inner .card-wrap .simplebar-content {
 	overflow: hidden;
-	padding: 30px 0!important;
+	padding: 30px 0 !important;
 }
 
 .card-inner .card-wrap .title {
@@ -1476,6 +1476,7 @@
 }
 
 @media (max-width: 720px) {
+
 	.mfp-wrap.popup-box .mfp-close,
 	.mfp-wrap.popup-box-inline .mfp-close {
 		right: 0;
@@ -1547,7 +1548,7 @@
 .card-inner.blogs h2.widget-title {
 	padding-bottom: 20px;
 	margin: -26px -25px 25px -25px;
-	border-bottom: 1px solid rgba(255,255,255,0.05);
+	border-bottom: 1px solid rgba(255, 255, 255, 0.05);
 	padding: 20px 30px;
 	display: block;
 	font-size: 20px;
@@ -1561,7 +1562,7 @@
 	margin-bottom: 10px;
 	font-size: 14px;
 	color: #999;
-	border-bottom: 1px solid rgba(255,255,255,0.05);
+	border-bottom: 1px solid rgba(255, 255, 255, 0.05);
 }
 
 .card-inner.blogs .widget ul li a {
@@ -1573,11 +1574,15 @@
 	color: #fff;
 }
 
-.card-inner.blogs .widget.widget_recent_comments a, .card-inner.blogs .widget.widget_recent_entries a, .card-inner.blogs .widget.widget_rss a, .card-inner.blogs .widget_archive a, .card-inner.blogs .widget_categories a {
+.card-inner.blogs .widget.widget_recent_comments a,
+.card-inner.blogs .widget.widget_recent_entries a,
+.card-inner.blogs .widget.widget_rss a,
+.card-inner.blogs .widget_archive a,
+.card-inner.blogs .widget_categories a {
 	padding-top: 5px;
 	font-size: 14px;
 	font-weight: 500;
-	display: block!important;
+	display: block !important;
 }
 
 .card-inner.blogs .widget ul li:last-child {
@@ -1590,15 +1595,15 @@
 }
 
 .page-numbers {
-    margin: 0 5px;
-    display: inline-block;
-    vertical-align: top;
-    color: #ddd;
-    font-weight: 700;
+	margin: 0 5px;
+	display: inline-block;
+	vertical-align: top;
+	color: #ddd;
+	font-weight: 700;
 }
 
 .page-numbers.current {
-    color: #999;
+	color: #999;
 }
 
 p img {
@@ -1606,8 +1611,8 @@ p img {
 }
 
 @media (max-width: 1023px) {
-.card-wrap.blogs-sidebar {
-	min-height: 100px!important;
-	padding-top: 25px;
-}
+	.card-wrap.blogs-sidebar {
+		min-height: 100px !important;
+		padding-top: 25px;
+	}
 }

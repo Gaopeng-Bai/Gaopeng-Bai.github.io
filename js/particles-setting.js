@@ -1,11 +1,11 @@
 /**
-*	Noisee (HTML)
-*	Copyright © Noisee by beshleyua. All Rights Reserved.
-**/
+ *	Noisee (HTML)
+ *	Copyright © Noisee by beshleyua. All Rights Reserved.
+ **/
 
 $(function () {
 	'use strict';
-	
+
 	var width = $(window).width();
 	var height = $(window).height();
 
