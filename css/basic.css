@@ -74,7 +74,7 @@ body {
 }
 
 .lines-grid {
-	padding-left: 44px;
+	padding-left: 100px;
 	position: fixed;
 	top: 0;
 	left: 0;
@@ -146,12 +146,12 @@ body {
 */
 .row {
 	margin: 0;
-	position: relative;
+    position: relative;
 	font-size: 0;
 }
 
 .row .col {
-	padding: 0;
+	padding: 16px 28px;
 	position: relative;
 	display: inline-block;
 	vertical-align: top;
