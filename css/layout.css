@@ -93,9 +93,9 @@
 .header .top-menu ul li a .icon {
 	margin: 0;
 	display: block;
-	height: 32px;
-	line-height: 32px;
-	font-size: 21px;
+	height: 52px;
+	line-height: 42px;
+	font-size: 30px;
 	color: #a9a9a9;
 	border-radius: 30px;
 	-moz-border-radius: 30px;
@@ -197,10 +197,10 @@
 .header .social a .icon {
 	margin: 0;
 	display: block;
-	height: 26px;
+	height: 36px;
 	line-height: 26px;
-	font-size: 17px;
-	color: #a9a9a9;
+	font-size: 30px;
+	color: #a4a3af;
 	transition: all 0.3s ease 0s;
 	-moz-transition: all 0.3s ease 0s;
 	-webkit-transition: all 0.3s ease 0s;
