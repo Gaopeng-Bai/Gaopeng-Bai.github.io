@@ -203,10 +203,6 @@
 	line-height: 30px;
 	font-size: 30px;
 	color: #a4a3af;
-	border-style: solid;
-	border-width: 3px;
-	border-color: #705959;
-	border-radius: 60px;
 	transition: all 0.3s ease 0s;
 	-moz-transition: all 0.3s ease 0s;
 	-webkit-transition: all 0.3s ease 0s;
