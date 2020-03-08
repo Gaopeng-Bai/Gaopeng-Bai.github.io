@@ -41,15 +41,23 @@
 .header .logo {
 	position: relative;
 	padding: 0;
-	background: #5ac24e;
+	/* background: #5ac24e; */
 	text-align: center;
+}
+
+.header .logo img {
+    width: 100px;
+    height: 90px;
+    border-radius: 50%;
+    margin-top: 20px;
+    border: 1px solid transparent;
+    box-shadow: 0 5px 20px 0 rgba(0, 0, 0, .2), 0 13px 24px -11px rgba(3, 36, 129, .6);
 }
 
 .header .logo a {
 	display: block;
-	height: 58px;
+	min-height: 10px;
 	line-height: 58px;
-	color: #ffffff;
 	text-decoration: none;
 }
 
@@ -282,6 +290,14 @@
 	}
 
 	.header .top-menu ul li a .icon {
+		margin: 0;
+		display: block;
+		width: 50px;
+		height: 58px;
+		line-height: 56px;
+	}
+
+	.header .logo img {
 		margin: 0;
 		display: block;
 		width: 50px;
