@@ -101,7 +101,7 @@
 .header .top-menu ul li a .icon {
 	margin: 0;
 	display: block;
-	height: 40px;
+	height: 45px;
 	line-height: 35px;
 	font-size: 30px;
 	color: #947a7a;
@@ -639,10 +639,10 @@
 	position: absolute;
 	overflow: hidden;
 	left: 0;
-	top: -50px;
+	top: -70px;
 	width: 100%;
-	font-size: 120px;
-	line-height: 120px;
+	font-size: 80px;
+	line-height: 60px;
 	color: #ffffff;
 	text-transform: uppercase;
 	font-weight: 700;
